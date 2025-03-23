@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Devops Lab 1
+=======
+Let's see 
+conflicts
+in merging
+>>>>>>> fb
